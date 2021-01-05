@@ -1,6 +1,6 @@
 {
-    "name": "laravel/framework",
-    "description": "The Laravel Framework.",
+    "name": "bencet/framework",
+    "description": "Forked Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "homepage": "https://laravel.com",
